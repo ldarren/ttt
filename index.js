@@ -45,6 +45,7 @@ function setCell(idx, mark){
 // Function to check for winning combinations
 function checkForWin(cell) {
 	const idx = cells.indexOf(cell)
+	if (0 > idx) return
 	const checks = rpaths[idx]
 	const mark = getCell(idx)
 	if (checks.some(check => check.every(c => cells[c].textContent === mark))) return mark
