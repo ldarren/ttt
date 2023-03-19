@@ -23,4 +23,4 @@ Finally, you will put everything together and create a fully functional Tic Tac 
 
 ## Outcome:
 
-A functional Tic Tac Toe game built using JavaScript and HTML/CSS. Understanding of how to manipulate the DOM, handle events, and use array and object iteration in JavaScript. you can try it [here](https://github.com/ "GitHub homepage")
+A functional Tic Tac Toe game built using JavaScript and HTML/CSS. Understanding of how to manipulate the DOM, handle events, and use array and object iteration in JavaScript. you can try it [here](https://ldarren.github.io/ttt/ "TTT")
